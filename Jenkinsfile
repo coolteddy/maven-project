@@ -4,5 +4,5 @@ node {
     stage 'Stage Build'
         echo "My branch is: ${env.BRANCH_NAME}"
     stage 'test'
-        sh 'echo hello'
+        sh 'echo hell helloo'
 }  
